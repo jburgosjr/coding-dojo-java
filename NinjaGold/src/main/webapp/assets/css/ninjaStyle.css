@@ -1,0 +1,56 @@
+        .gold_count_container{
+            margin-left: 10px;
+            display: inline-block;
+        }
+
+       	.goldcount{
+            padding-left: 5px;
+            height: 30px;
+            width: 100px;
+            display: inline-block;
+            border: solid 2px black;
+        }
+
+        nav{
+            margin-bottom: 10px;
+        }
+
+        .selection_box{
+            padding-top: 10px;
+            margin: 20px;
+            width: 200px;
+            height: 200px;
+            display: inline-block;
+            border: solid 2px black;
+        }
+
+        .box_selection_container{
+            text-align: center;
+        }
+
+        button{
+            margin-top: 20px;
+        }
+
+        #text_area{
+            height: 200px;
+            width: 800px;
+            border: solid 2px black;
+            overflow: scroll;
+        }
+
+        .activity_log{
+            margin-left: 120px;
+        }
+
+        .greentext{
+            color: green;
+        }
+
+        .redtext{
+            color: red;
+        }
+
+        .startover{
+            margin-left: 380px;
+        }

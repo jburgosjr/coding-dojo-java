@@ -1,0 +1,13 @@
+.container{
+	text-align: center;
+	margin-top: 20rem;
+}
+
+ul{
+	list-style-position:inside;
+}
+
+h3{
+	display:inline-block;
+	
+}

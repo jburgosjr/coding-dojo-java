@@ -1,0 +1,41 @@
+.center{
+	text-align:center;
+	
+	
+}
+
+
+.low{
+	border: solid .2rem ;
+	display: inline-block;
+	width: 10rem;
+	height: 10rem;
+	padding-top:.9rem;
+	background: red;
+	color:white;
+}
+
+.high{
+	border: solid .2rem ;
+	display: inline-block;
+	width: 10rem;
+	height: 10rem;
+	padding-top:.9rem;
+	background: blue;
+	color: white;
+}
+
+.found{
+	border: solid .2rem ;
+	display: inline-block;
+	width: 10rem;
+	height: 10rem;
+	padding-top:.9rem;
+	background: green;
+	color: white;
+}
+	
+
+
+
+

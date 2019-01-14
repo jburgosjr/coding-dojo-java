@@ -1,0 +1,17 @@
+.dT{
+	display:inline-block;
+	margin-right: 5rem;
+}
+
+.tT{
+	display:inline-block;
+	margin-left: 5rem;
+}
+
+body{
+	text-align:center;
+}
+
+.container{
+	margin-top: 20rem;
+}
